@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rezayzdni
+- 👋 Hi, I’m Reza
 - 👀 I’m interested in backend developement and natural language processing.
 - 🌱 I’m currently learning django
 - 📫 reach me by sending an email to reza.77.ry@gmail.com
