@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rezayzdni
-- 👀 I’m interested in backend developement
+- 👀 I’m interested in backend developement and natural language processing.
 - 🌱 I’m currently learning django
 - 📫 reach me by sending an email to reza.77.ry@gmail.com
 
