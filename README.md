@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reza
-- 👀 I’m interested in backend developement.
-- 🌱 I’m currently learning django
+- 👀 I’m interested in backend developement and Search Engine Optimization.
+- 🌱 I’m currently learning php and django 
 - 📫 reach me by sending an email to reza.77.ry@gmail.com
 
 <!---
